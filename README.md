@@ -157,7 +157,7 @@ _Related: [Database Management](#database-management), [Personal Dashboards](#pe
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preservation](https://en.wikipedia.org/wiki/Digital_preservation) software.
+Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preservation](https://en.wikipedia.org/wiki/Digital_preservation) 软件。
 
 _Related: [Backup](#backup), [Content Management Systems (CMS)](#content-management-systems-cms)_
 
@@ -220,9 +220,9 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot), [Software Develop
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Backup](https://en.wikipedia.org/wiki/Backup) software.
+[Backup](https://en.wikipedia.org/wiki/Backup) 软件。
 
-**Please visit [awesome-sysadmin/Backups](https://github.com/awesome-foss/awesome-sysadmin#backups)**
+**该分类已迁移至 awesome-sysadmin/Backups**（请访问英文页）
 
 _Related: [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)_
 
@@ -258,7 +258,7 @@ _See also: [WeblogMatrix](https://www.weblogmatrix.org/)_
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-Event scheduling, reservation, and appointment management software.
+Event scheduling, reservation, and appointment management 软件。
 
 _Related: [Polls and Events](#polls-and-events), [Groupware](#groupware)_
 
@@ -394,7 +394,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Mail Delivery Agents](https://en.wikipedia.org/wiki/Message_delivery_agent) (MDAs) - [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)/[POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) server software.
+[Mail Delivery Agents](https://en.wikipedia.org/wiki/Message_delivery_agent) (MDAs) - [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)/[POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) server 软件。
 
 - [Cyrus IMAP](https://www.cyrusimap.org/) - 电子邮件（IMAP/POP3）、联系人和日历服务器。 ([Source Code](https://github.com/cyrusimap/cyrus-imapd)) `BSD-3-Clause-Attribution` `C`
 - [DavMail](https://davmail.sourceforge.net/) `⚠` - POP/IMAP/SMTP/Caldav/Carddav/LDAP exchange gateway allowing users to use any mail/calendar client with an Exchange server, even from the internet or behind a firewall through Outlook Web Access. ([Source Code](https://github.com/mguessan/davmail)) `GPL-2.0` `Java`
@@ -454,7 +454,7 @@ _Related: [Customer Relationship Management (CRM)](#customer-relationship-manage
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software.
+[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication 软件。
 
 - [Ergo](https://ergo.chat/) - 用 Go 编写的现代 IRCv3 服务器，集 ircd、服务框架和 bouncer 功能于一身。 ([Source Code](https://github.com/ergochat/ergo)) `MIT` `Go/Docker`
 - [Glowing Bear](https://github.com/glowing-bear/glowing-bear) - WeeChat 的 Web 前端。 ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Nodejs`
@@ -473,7 +473,7 @@ _Related: [Customer Relationship Management (CRM)](#customer-relationship-manage
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software.
+[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony 软件。
 
 - [Asterisk](https://www.asterisk.org/) - 易于使用且功能先进的 IP PBX 系统、VoIP 网关和会议服务器。 ([Source Code](https://github.com/asterisk/asterisk)) `GPL-2.0` `C/deb`
 - [Flexisip](https://www.linphone.org/en/flexisip-sip-server/) - 完整、模块化且可扩展的 SIP 服务器，包含推送网关，用于在应用不在前台时需要依靠推送通知接收信息的移动设备平台上，投递 SIP 来电或文本消息。 ([Source Code](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`
@@ -493,7 +493,7 @@ _Related: [Customer Relationship Management (CRM)](#customer-relationship-manage
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Social Networking](https://en.wikipedia.org/wiki/Social_networking_service) and [Forum](https://en.wikipedia.org/wiki/Internet_forum) software.
+[Social Networking](https://en.wikipedia.org/wiki/Social_networking_service) and [Forum](https://en.wikipedia.org/wiki/Internet_forum) 软件。
 
 - [Akkoma](https://akkoma.social/) - 联合微博客服务器，兼容 Mastodon、GNU social 和 ActivityPub。 ([Source Code](https://akkoma.dev/AkkomaGang/akkoma)) `AGPL-3.0` `Elixir/Docker`
 - [Answer](https://answer.apache.org) - 基于知识的社区软件。可用它快速搭建问答社区，用于产品技术支持、客户支持、用户交流等场景。 ([Source Code](https://github.com/apache/answer)) `Apache-2.0` `Docker/Go`
@@ -541,7 +541,7 @@ _Related: [Customer Relationship Management (CRM)](#customer-relationship-manage
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Video/Web Conferencing](https://en.wikipedia.org/wiki/Web_conferencing) tools and software.
+[Video/Web Conferencing](https://en.wikipedia.org/wiki/Web_conferencing) tools and 软件。
 
 _Related: [Conference Management](#conference-management)_
 
@@ -759,7 +759,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Ebook](https://en.wikipedia.org/wiki/Ebook) library management software.
+[Ebook](https://en.wikipedia.org/wiki/Ebook) library management 软件。
 
 - [Atsumeru](https://atsumeru.xyz) - 漫画/连环画/轻小说媒体服务器，提供 Windows、Linux、macOS 和 Android 客户端。 ([Source Code](https://github.com/Atsumeru-xyz/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
 - [Bindery](https://github.com/jarynclouatre/bindery) - 监视文件夹的电子书和漫画转换器。通过 kepubify 将 EPUB 转为 Kobo KEPUB，通过 Kindle Comic Converter 处理 CBZ/CBR/PDF，支持按设备配置档案、ComicInfo.xml 命名、章节合并成卷以及 Web 界面。`MIT` `Docker`
@@ -782,12 +782,12 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Institutional repository](https://en.wikipedia.org/wiki/Institutional_repository) and [digital library](https://en.wikipedia.org/wiki/Digital_library) management software.
+[Institutional repository](https://en.wikipedia.org/wiki/Institutional_repository) and [digital library](https://en.wikipedia.org/wiki/Digital_library) management 软件。
 
 - [DSpace](http://www.dspace.org/) - 开箱即用的仓储库应用，为数字资源提供持久访问。 ([Source Code](https://github.com/DSpace/DSpace)) `BSD-3-Clause` `Java`
 - [EPrints](https://www.eprints.org/) - 数字文档管理系统，具备灵活的元数据和工作流模型，主要面向学术机构。 ([Demo](http://tryme.demo.eprints-hosting.org/), [Source Code](https://github.com/eprints/eprints3.4)) `GPL-3.0` `Perl`
 - [Fedora Commons Repository](https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home) - 健壮且模块化的仓储库系统，用于管理和传播数字内容，尤其适合数字图书馆和档案馆的访问与保存。 ([Source Code](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`
-- [InvenioRDM](https://inveniordm.docs.cern.ch/) - 高度可扩展的开箱即用研究数据管理平台，用户体验出色。 ([Demo](https://inveniordm.web.cern.ch/), [Source Code](https://github.com/inveniosoftware/invenio-app-rdm), [Clients](https://inveniosoftware.org/products/rdm/)) `MIT` `Python`
+- [InvenioRDM](https://inveniordm.docs.cern.ch/) - 高度可扩展的开箱即用研究数据管理平台，用户体验出色。 ([Demo](https://inveniordm.web.cern.ch/), [Source Code](https://github.com/inveniosoftware/invenio-app-rdm), [Clients](https://invenio软件。org/products/rdm/)) `MIT` `Python`
 - [Islandora](https://www.islandora.ca/) - 用于浏览和管理基于 Fedora 的数字仓储库的 Drupal 模块。 ([Demo](https://sandbox.islandora.ca/), [Source Code](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`
 - [Samvera Hyrax](https://samvera.org/) - Samvera 框架的前端，Samvera 本身是一个用于浏览和管理基于 Fedora 的数字仓储库的 Ruby on Rails 应用。 ([Source Code](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
@@ -809,7 +809,7 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms), [
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[E-commerce](https://en.wikipedia.org/wiki/E-commerce) software.
+[E-commerce](https://en.wikipedia.org/wiki/E-commerce) 软件。
 
 _Related: [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)_
 
@@ -840,9 +840,9 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Federated identity](https://en.wikipedia.org/wiki/Federated_identity) and [authentication](https://en.wikipedia.org/wiki/Electronic_authentication) software.
+[Federated identity](https://en.wikipedia.org/wiki/Federated_identity) and [authentication](https://en.wikipedia.org/wiki/Electronic_authentication) 软件。
 
-**Please visit [awesome-sysadmin/Identity Management](https://github.com/awesome-foss/awesome-sysadmin#identity-management)**
+**该分类已迁移至 awesome-sysadmin/Identity Management**（请访问英文页）
 
 
 
@@ -882,7 +882,7 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[File transfer](https://en.wikipedia.org/wiki/File_transfer), [sharing](https://en.wikipedia.org/wiki/File_sharing) and [synchronization software](https://en.wikipedia.org/wiki/File_synchronization) software.
+[File transfer](https://en.wikipedia.org/wiki/File_transfer), [sharing](https://en.wikipedia.org/wiki/File_sharing) and [synchronization software](https://en.wikipedia.org/wiki/File_synchronization) 软件。
 
 _Related: [Groupware](#groupware)_
 
@@ -910,7 +910,7 @@ _Related: [Groupware](#groupware)_
 
 Network distributed filesystems.
 
-**Please visit [awesome-sysadmin/Distributed Filesystems](https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems)**
+**该分类已迁移至 awesome-sysadmin/Distributed Filesystems**（请访问英文页）
 
 
 
@@ -1126,7 +1126,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Medical](https://en.wikipedia.org/wiki/Medical_software), [Health](https://en.wikipedia.org/wiki/Health_information_technology) and [Fitness](https://en.wikipedia.org/wiki/Fitness_tracker) software.
+[Medical](https://en.wikipedia.org/wiki/Medical_software), [Health](https://en.wikipedia.org/wiki/Health_information_technology) and [Fitness](https://en.wikipedia.org/wiki/Fitness_tracker) 软件。
 
 - [Endurain](https://docs.endurain.com/) - 健身追踪服务，旨在让用户完全掌控自己的数据和托管环境。 ([Source Code](https://codeberg.org/endurain-project/endurain)) `AGPL-3.0` `Docker`
 - [FitTrackee](https://docs.fittrackee.org/) - 简单的锻炼/活动追踪器。 ([Source Code](https://github.com/SamR1/FitTrackee)) `AGPL-3.0` `Python/Docker`
@@ -1154,7 +1154,7 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 
 [Identity management](https://en.wikipedia.org/wiki/Identity_management) (IdM), also known as identity and access management (IAM or IdAM), is a framework of policies and technologies to ensure that the right users have the appropriate access to technology resources.
 
-**Please visit [awesome-sysadmin/Identity Management](https://github.com/awesome-foss/awesome-sysadmin#identity-management)**
+**该分类已迁移至 awesome-sysadmin/Identity Management**（请访问英文页）
 
 
 
@@ -1268,7 +1268,7 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Maps](https://en.wikipedia.org/wiki/Map), [cartography](https://en.wikipedia.org/wiki/Cartography), [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) software.
+[Maps](https://en.wikipedia.org/wiki/Map), [cartography](https://en.wikipedia.org/wiki/Cartography), [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) 软件。
 
 _Related: [Travel Organization](#travel-organization)_
 
@@ -1297,7 +1297,7 @@ _See also: [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetm
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Digital media](https://en.wikipedia.org/wiki/Digital_media) management tools and software.
+[Digital media](https://en.wikipedia.org/wiki/Digital_media) management tools and 软件。
 
 _Related: [Automation](#automation), [Media Streaming](#media-streaming), [Media Streaming - Audio Streaming](#media-streaming---audio-streaming), [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming), [Media Streaming - Video Streaming](#media-streaming---video-streaming), [Media Management](#media-management)_
 
@@ -1351,7 +1351,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Audio](https://en.wikipedia.org/wiki/Audio) streaming tools and software.
+[Audio](https://en.wikipedia.org/wiki/Audio) streaming tools and 软件。
 
 _Related: [Media Management](#media-management)_
 
@@ -1388,7 +1388,7 @@ _Related: [Media Management](#media-management)_
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Multimedia](https://en.wikipedia.org/wiki/Multimedia) streaming tools and software.
+[Multimedia](https://en.wikipedia.org/wiki/Multimedia) streaming tools and 软件。
 
 _Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming), [Media Streaming - Audio Streaming](#media-streaming---audio-streaming), [Media Management](#media-management)_
 
@@ -1414,7 +1414,7 @@ _Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Video](https://en.wikipedia.org/wiki/Video) streaming tools and software.
+[Video](https://en.wikipedia.org/wiki/Video) streaming tools and 软件。
 
 _Related: [Video Surveillance](#video-surveillance), [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming), [Photo Galleries](#photo-galleries), [Media Management](#media-management)_
 
@@ -1520,7 +1520,7 @@ Software that does not fit in another section.
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Money management](https://en.wikipedia.org/wiki/Money_management) and budgeting software.
+[Money management](https://en.wikipedia.org/wiki/Money_management) and budgeting 软件。
 
 _Related: [Inventory Management](#inventory-management), [Resource Planning](#resource-planning)_
 
@@ -1935,7 +1935,7 @@ Software for easy installation, management and configuration of self-hosted serv
 
 [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment) software and tools.
 
-**Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
+**该分类已迁移至 awesome-sysadmin/Continuous Integration & Continuous Deployment**（请访问英文页）
 
 _Related: [Automation](#automation)_
 
@@ -1945,9 +1945,9 @@ _Related: [Automation](#automation)_
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Serverless computing](https://en.wikipedia.org/wiki/Serverless_computing), [Function as a Service (FaaS)](https://en.wikipedia.org/wiki/Function_as_a_service) and [Platform as a Service (Paas)](https://en.wikipedia.org/wiki/Platform_as_a_service) management software.
+[Serverless computing](https://en.wikipedia.org/wiki/Serverless_computing), [Function as a Service (FaaS)](https://en.wikipedia.org/wiki/Function_as_a_service) and [Platform as a Service (Paas)](https://en.wikipedia.org/wiki/Platform_as_a_service) management 软件。
 
-**Please visit [awesome-sysadmin/PaaS](https://github.com/awesome-foss/awesome-sysadmin#paas)**
+**该分类已迁移至 awesome-sysadmin/PaaS**（请访问英文页）
 
 
 
@@ -2091,7 +2091,7 @@ _Related: [Blogging Platforms](#blogging-platforms), [Photo Galleries](#photo-ga
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Task management](https://en.wikipedia.org/wiki/Task_management#Task_management_software) software.
+[Task management](https://en.wikipedia.org/wiki/Task_management#Task_management_software) 软件。
 
 _Related: [Software Development - Project Management](#software-development---project-management), [Ticketing](#ticketing)_
 
@@ -2214,7 +2214,7 @@ _Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming
 
 A [virtual private network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_network) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
 
-**Please visit [awesome-sysadmin/VPN](https://github.com/awesome-foss/awesome-sysadmin#vpn)**
+**该分类已迁移至 awesome-sysadmin/VPN**（请访问英文页）
 
 _See also: [Awesome-Tunneling](https://github.com/anderspitman/awesome-tunneling)_
 
