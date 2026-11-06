@@ -2357,16 +2357,13 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki software - W
 ## 贡献
 
 贡献指南见上游 [Contributing](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/CONTRIBUTING.md)。本中文版的条目翻译问题请到本仓库提 issue；新增/修正条目请先向上游 PR，再同步到本仓库。
+
 ## 许可证
 
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
-Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
-The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
+本清单遵循 [CC Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) 许可。
+许可条款摘要见[这里](https://creativecommons.org/licenses/by-sa/3.0/)。
+作者名单见 [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) 文件。
 
-
-## 贡献
-
-贡献指南见上游 [Contributing](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/CONTRIBUTING.md)。本中文版的条目翻译问题请到本仓库提 issue；新增/修正条目请先向上游 PR，再同步到本仓库。
 
 ## 署名与许可
 
