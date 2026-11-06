@@ -110,111 +110,6 @@
 --------------------
 
 
-## Table of contents
-
-- [Software](#software)
-  - [Analytics](#analytics)
-  - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
-  - [Automation](#automation)
-  - [Backup](#backup)
-  - [Blogging Platforms](#blogging-platforms)
-  - [Booking and Scheduling](#booking-and-scheduling)
-  - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
-  - [Calendar & Contacts](#calendar--contacts)
-  - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
-  - [Communication - Email - Complete Solutions](#communication---email---complete-solutions)
-  - [Communication - Email - Mail Delivery Agents](#communication---email---mail-delivery-agents)
-  - [Communication - Email - Mail Transfer Agents](#communication---email---mail-transfer-agents)
-  - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
-  - [Communication - Email - Webmail Clients](#communication---email---webmail-clients)
-  - [Communication - IRC](#communication---irc)
-  - [Communication - SIP](#communication---sip)
-  - [Communication - Social Networks and Forums](#communication---social-networks-and-forums)
-  - [Communication - Video Conferencing](#communication---video-conferencing)
-  - [Communication - XMPP - Servers](#communication---xmpp---servers)
-  - [Communication - XMPP - Web Clients](#communication---xmpp---web-clients)
-  - [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)
-  - [Conference Management](#conference-management)
-  - [Content Management Systems (CMS)](#content-management-systems-cms)
-  - [Customer Relationship Management (CRM)](#customer-relationship-management-crm)
-  - [Database Management](#database-management)
-  - [DNS](#dns)
-  - [Document Management](#document-management)
-  - [Document Management - E-books](#document-management---e-books)
-  - [Document Management - Institutional Repository and Digital Library Software](#document-management---institutional-repository-and-digital-library-software)
-  - [Document Management - Integrated Library Systems (ILS)](#document-management---integrated-library-systems-ils)
-  - [E-commerce](#e-commerce)
-  - [Federated Identity & Authentication](#federated-identity--authentication)
-  - [Feed Readers](#feed-readers)
-  - [File Transfer & Synchronization](#file-transfer--synchronization)
-  - [File Transfer - Distributed Filesystems](#file-transfer---distributed-filesystems)
-  - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers)
-  - [File Transfer - Peer-to-peer Filesharing](#file-transfer---peer-to-peer-filesharing)
-  - [File Transfer - Single-click & Drag-n-drop Upload](#file-transfer---single-click--drag-n-drop-upload)
-  - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
-  - [Games](#games)
-  - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
-  - [Genealogy](#genealogy)
-  - [Generative Artificial Intelligence (GenAI)](#generative-artificial-intelligence-genai)
-  - [Groupware](#groupware)
-  - [Health and Fitness](#health-and-fitness)
-  - [Human Resources Management (HRM)](#human-resources-management-hrm)
-  - [Identity Management](#identity-management)
-  - [Internet of Things (IoT)](#internet-of-things-iot)
-  - [Inventory Management](#inventory-management)
-  - [Knowledge Management Tools](#knowledge-management-tools)
-  - [Learning and Courses](#learning-and-courses)
-  - [Manufacturing](#manufacturing)
-  - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
-  - [Media Management](#media-management)
-  - [Media Streaming](#media-streaming)
-  - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)
-  - [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming)
-  - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
-  - [Miscellaneous](#miscellaneous)
-  - [Money, Budgeting & Management](#money-budgeting--management)
-  - [Monitoring & Status Pages](#monitoring--status-pages)
-  - [Network Utilities](#network-utilities)
-  - [Note-taking & Editors](#note-taking--editors)
-  - [Office Suites](#office-suites)
-  - [Password Managers](#password-managers)
-  - [Pastebins](#pastebins)
-  - [Personal Dashboards](#personal-dashboards)
-  - [Photo Galleries](#photo-galleries)
-  - [Polls and Events](#polls-and-events)
-  - [Proxy](#proxy)
-  - [Recipe Management](#recipe-management)
-  - [Remote Access](#remote-access)
-  - [Resource Planning](#resource-planning)
-  - [Search Engines](#search-engines)
-  - [Self-hosting Solutions](#self-hosting-solutions)
-  - [Software Development](#software-development)
-  - [Software Development - API Management](#software-development---api-management)
-  - [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment)
-  - [Software Development - FaaS & Serverless](#software-development---faas--serverless)
-  - [Software Development - Feature Toggle](#software-development---feature-toggle)
-  - [Software Development - IDE & Tools](#software-development---ide--tools)
-  - [Software Development - Localization](#software-development---localization)
-  - [Software Development - Low Code](#software-development---low-code)
-  - [Software Development - Project Management](#software-development---project-management)
-  - [Software Development - Testing](#software-development---testing)
-  - [Static Site Generators](#static-site-generators)
-  - [Task Management & To-do Lists](#task-management--to-do-lists)
-  - [Ticketing](#ticketing)
-  - [Time Tracking](#time-tracking)
-  - [Travel Organization](#travel-organization)
-  - [URL Shorteners](#url-shorteners)
-  - [Video Surveillance](#video-surveillance)
-  - [VPN](#vpn)
-  - [Web Servers](#web-servers)
-  - [Wikis](#wikis)
-- [List of Licenses](#list-of-licenses)
-- [Anti-features](#anti-features)
-- [External Links](#external-links)
-- [Contributing](#contributing)
-- [License](#license)
-
---------------------
 
 ## 软件
 
@@ -2445,7 +2340,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki software - W
 
 --------------------
 
-## External Links
+## 外部链接
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
@@ -2461,8 +2356,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki software - W
 
 ## 贡献
 
-Contributing guidelines can be found [here](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/CONTRIBUTING.md).
-
+贡献指南见上游 [Contributing](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/CONTRIBUTING.md)。本中文版的条目翻译问题请到本仓库提 issue；新增/修正条目请先向上游 PR，再同步到本仓库。
 ## 许可证
 
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
